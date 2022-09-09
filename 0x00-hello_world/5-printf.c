@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	printf("ith proper grammer, gut the outcome is a piece of art,\n");
+	printf("with proper grammer, gut the outcome is a piece of art,\n");
 	return (0);
 }
 
