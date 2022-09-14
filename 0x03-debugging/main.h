@@ -1,6 +1,6 @@
-#ifndef HOLBERTON_H
+#ifndef MAIN_H
 
-#define HOLBERTON_H
+#define MAIN_H
 
 
 
@@ -18,4 +18,4 @@ int convert_day(int month, int day);
 
 
 
-#endif /* HOLBERTON_H */
+#endif /* MAIN_H */
