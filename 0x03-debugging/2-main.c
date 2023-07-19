@@ -1,12 +1,10 @@
  #include <stdio.h>
-
+ #include "main.h"
 /*
  * main - prints the largest of 3 intergers 
  * returns: 0 on success
  */
 
-/*Prototype for the called function*/
-int largest_number(int a, int b, int c);
 int main(void)
 {
 	int a, b, c;
