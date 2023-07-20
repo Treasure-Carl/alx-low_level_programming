@@ -5,7 +5,7 @@
 /**
  * main - function print_to_98
  * print_digit - print any integer using _putchar
- * Description: a function on print_to_98 
+ * Description: a function on print_to_98
  * @n: integer to be displayed
  */
 
