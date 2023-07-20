@@ -3,9 +3,9 @@
 #include <stdlib.h>
 
 /**
- * function - print_to_98
+ * main - function print_to_98
  * print_digit - print any integer using _putchar
- * Description: a function print_to_98 that prints positive intergers
+ * Description: a function on print_to_98 
  * @n: integer to be displayed
  */
 
