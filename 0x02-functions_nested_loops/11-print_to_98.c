@@ -4,7 +4,7 @@
 
 /**
  *  print_digit - print any integer using _putchar
- *
+ * Description: a function that prints out positive numbers to 98 seperated by a comma and space
  * @n: integer to be displayed
  */
 
@@ -22,7 +22,7 @@ void print_to_98(int n)
 			}
 			else
 			{
-				printf("%d,  ", n);
+				printf("%d, ", n);
 			}
 		}
 	}
@@ -42,5 +42,5 @@ void print_to_98(int n)
 			}
 		}
 	}
-	
+
 }
