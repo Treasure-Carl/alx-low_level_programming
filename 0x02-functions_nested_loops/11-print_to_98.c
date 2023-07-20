@@ -3,8 +3,8 @@
 #include <stdlib.h>
 
 /**
- *  print_digit - print any integer using _putchar
- * Description: a function that prints out positive numbers to 98 seperated by a comma and space
+ * print_digit - print any integer using _putchar
+ * Description: a function "print_to_98" thata prints positive intergers
  * @n: integer to be displayed
  */
 
