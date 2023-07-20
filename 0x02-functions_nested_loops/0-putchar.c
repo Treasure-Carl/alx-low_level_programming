@@ -1,18 +1,18 @@
 #include "main.h"
+#include <stdio.h>
 
 
 
 /**
- * main - debugging example
+ * main - write a random function using _putchar
  *
  * Return: 0
  */
-
 int main(void)
 
 {
 
-		char *holberton = "_putchar";
+		char *holberton = "_Putcharr";
 
 		while (*holberton)
 		{
