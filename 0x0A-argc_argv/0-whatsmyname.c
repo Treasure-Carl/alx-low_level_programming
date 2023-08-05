@@ -4,6 +4,7 @@
  * main - Prints the program name, followed by a new line.
  * @argc: The number of arguments supplied to the program.
  * @argv: An array of pointers to the argument.
+ * @__Attribute((__unused__)) could also be ommited not necessarly compousary
  *
  * Return: Always 0.
  */
