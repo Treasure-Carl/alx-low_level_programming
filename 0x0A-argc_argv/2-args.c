@@ -4,6 +4,7 @@
  * main - Prints all arguments it receives.
  * @argc: The number of arguments supplied to the program.
  * @argv: An array of pointers to the arguments.
+ * @arg is just a random global variable
  *
  * Return: Always 0.
  */
